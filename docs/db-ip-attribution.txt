@@ -1,0 +1,8 @@
+IP Geolocation by DB-IP
+https://db-ip.com/
+
+DB-IP City Lite and Country Lite are distributed under the Creative Commons
+Attribution 4.0 International license.
+https://creativecommons.org/licenses/by/4.0/
+
+The bundled database, when supplied, is copied without modification.
